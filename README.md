@@ -27,4 +27,4 @@ I'm Abhimanyu, a Python Developer passionate about exploring the world of Machin
 
 - I wield the power to brew up to 7 distinct styles of coffee, transforming beans into liquid magic.
 
-![My GitHub Stats]([https://github-readme-stats.vercel.app/api?username=CodexAbhi&show_icons=true&theme=radical](https://github.com/CodexAbhi?tab=repositories))
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=CodexAbhi&show_icons=true&theme=radical)
